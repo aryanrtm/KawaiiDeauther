@@ -14,9 +14,12 @@ Dependencies
 
 Installation
 =
+Dependencies will be automatically installed.
+
     git clone https://github.com/aryanrtm/KawaiDeauther
     cd KawaiDeauther && sudo ./install.sh
     sudo KawaiDeauther.sh
+
 
 Tested on
 =
