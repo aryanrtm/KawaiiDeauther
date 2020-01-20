@@ -33,7 +33,7 @@ function chk_root () {
 function banner () {
 	printf "${BD}
 ${GR}┊┊                  ${WH}╭━━━━━━
-${GR}┊┊┊┊${YW}╭━╱▔▔▔╲━╮${GR}┊┊${YW}☼   ${WH}╭╯${RD}Kawaii
+${GR}┊┊┊┊${YW}╭━╱▔▔▔╲━╮${GR}┊┊${YW}☼   ${WH}╭╯${RD}KAWAII
 ${GR}┊╱╲┊${YW}╰▏▆┊┊┊▇▕╯${GR}╱╲┊   ${WH}┃${RD}DEAUTHER
 ${GR}▔▔▔▔▔${YW}▏┊┊▇┊┊▕${GR}▔▔▔▔   ${WH}╰┳━━━━━━
 ${GR}┈${YW}╱▔▔╱┊┊━┻━┊┊╲▔▔╲  ${WH}━━╯${YW}
@@ -123,7 +123,7 @@ function deactivate_destruction_2 () {
 	printf " ${BD}${WH}[${RD}*${WH}] ${RD}Deactivate Destruction ...\n"
 	printf " ${BD}${WH}[${RD}*${WH}] ${RD}Arigatō, Nyan ... ${GR}~(=^‥^)丿\n"
 	rm -f .iface.tmp
-	rm -f $rand_ssid_list.txt
+	rm -f $rand_ssid"_list.txt"
 	exit
 }
 
@@ -197,10 +197,10 @@ elif [[ $attack == 3 ]]; then
 		banner
 		printf "\n${RD}4WSec${GR}@${RD}Kawaii${WH}(SSID(Name of Network)) >> "; read rand_ssid;
 		printf "\n${RD}4WSec${GR}@${RD}Kawaii${WH}(How Many SSID) >> "; read con_ssid;
-		while [[ $con -lt $con_ssid ]] || [[ $con -eq $con_ssid ]]; do
-			echo $rand_ssid $con >> $rand_ssid"_list.txt"
-			let con=con+1
+		for x in $(seq 1 $con_ssid); do
+			echo "$rand_ssid $x" >> $rand_ssid"_list.txt"
 		done
+		wait
 		clear
 		banner_2
 		trap deactivate_destruction_2 EXIT ### CTRL+C to exit
