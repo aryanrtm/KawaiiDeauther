@@ -5,7 +5,7 @@
 # Github: github.com/aryanrtm
 # Instagram: instagram.com/aryanrtm_
 # Give me the credits if you recode this tool. Don't be a SKID!
-# Kawaii Deauther is made with <3 by Arya Narotama - 2020
+# Kawaii Deauther is made with <3 by Arya Narotama - Anon Cyber Team - 2020
 
 
 ### Colors ###
@@ -33,7 +33,7 @@ function chk_root () {
 function banner () {
 	printf "${BD}
 ${GR}┊┊                  ${WH}╭━━━━━━
-${GR}┊┊┊┊${YW}╭━╱▔▔▔╲━╮${GR}┊┊${YW}☼   ${WH}╭╯${RD}Kawaii
+${GR}┊┊┊┊${YW}╭━╱▔▔▔╲━╮${GR}┊┊${YW}☼   ${WH}╭╯${RD}KAWAII
 ${GR}┊╱╲┊${YW}╰▏▆┊┊┊▇▕╯${GR}╱╲┊   ${WH}┃${RD}DEAUTHER
 ${GR}▔▔▔▔▔${YW}▏┊┊▇┊┊▕${GR}▔▔▔▔   ${WH}╰┳━━━━━━
 ${GR}┈${YW}╱▔▔╱┊┊━┻━┊┊╲▔▔╲  ${WH}━━╯${YW}
