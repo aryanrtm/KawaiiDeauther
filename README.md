@@ -47,4 +47,8 @@ Contact
 =
 - Twitter: @4wsec.666
 
-KawaiDeauther is made with ❤️ by Arya Narotama
+
+Copyright
+=
+KawaiDeauther is made with ❤️ by Arya Narotama - 2020
+Give me the credits if you recode this tool. Don't be a SKID!
