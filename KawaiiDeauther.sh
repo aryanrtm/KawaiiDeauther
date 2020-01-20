@@ -5,7 +5,7 @@
 # Github: github.com/aryanrtm
 # Instagram: instagram.com/aryanrtm_
 # Give me the credits if you recode this tool. Don't be a SKID!
-# Kawaii Deauther is made with <3 by Arya Narotama - 2020
+# Kawaii Deauther is made with <3 by Arya Narotama - Anon Cyber Team - 2020
 
 
 ### Colors ###
