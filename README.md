@@ -50,6 +50,6 @@ Contact
 
 Copyright
 =
-Kawaii Deauther is made with ❤️ by Arya Narotama - 2020
+Kawaii Deauther is made with ❤️ by Arya Narotama - Anon Cyber Team - 2020
 <br>
 Give me the credits if you recode this tool. Don't be a SKID!
