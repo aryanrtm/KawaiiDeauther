@@ -31,3 +31,10 @@ Tested on
         <td> 19.2 Tina </td>
     </tr>
 </table>
+
+
+Features
+=
+- Takedown with SSID
+- Takedown all channels
+- Spam many fake AP
