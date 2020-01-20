@@ -1,7 +1,7 @@
 # KawaiiDeauther
 KawaiiDeauther is a pentest toolkit whose goal is to perform jam on WiFi clients/router and spam many fake AP for testing purposes.
 
-![Screenshot from 2020-01-20 19-27-15](https://user-images.githubusercontent.com/32659320/72726674-7d941000-3bbb-11ea-85d1-125ec1f653d4.png)
+![Screenshot from 2020-01-20 20-11-18](https://user-images.githubusercontent.com/32659320/72729021-36108280-3bc1-11ea-9eb5-483c1d60cf80.png)
 
 
 Dependencies
