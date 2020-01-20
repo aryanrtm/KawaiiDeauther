@@ -41,3 +41,10 @@ Features
 - Takedown with SSID
 - Takedown all channels
 - Spam many fake AP
+
+
+Contact
+=
+- Twitter: @4wsec.666
+
+KawaiDeauther is made with ❤️ by Arya Narotama
