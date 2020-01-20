@@ -9,3 +9,9 @@ Dependencies
 - macchanger
 - mdk3
 - nmcli
+
+Installation
+=
+    git clone https://github.com/aryanrtm/KawaiDeauther
+    cd KawaiDeauther && sudo ./install.sh
+    sudo KawaiDeauther.sh
