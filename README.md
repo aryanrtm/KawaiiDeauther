@@ -51,4 +51,5 @@ Contact
 Copyright
 =
 KawaiDeauther is made with ❤️ by Arya Narotama - 2020
+<br>
 Give me the credits if you recode this tool. Don't be a SKID!
