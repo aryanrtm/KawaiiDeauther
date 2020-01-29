@@ -34,11 +34,14 @@ function banner () {
 	printf "${BD}
 ${GR}┊┊                  ${WH}╭━━━━━━
 ${GR}┊┊┊┊${YW}╭━╱▔▔▔╲━╮${GR}┊┊${YW}☼   ${WH}╭╯${RD}KAWAII
-${GR}┊╱╲┊${YW}╰▏▆┊┊┊▇▕╯${GR}╱╲┊   ${WH}┃${RD}DEAUTHER
+${GR}┊╱╲┊${YW}╰▏▆┊┊┊▇▕╯${GR}╱╲┊   ${WH}┃${RD}DEAUTHER ${NT}${CY}v1.2${BD}
 ${GR}▔▔▔▔▔${YW}▏┊┊▇┊┊▕${GR}▔▔▔▔   ${WH}╰┳━━━━━━
 ${GR}┈${YW}╱▔▔╱┊┊━┻━┊┊╲▔▔╲  ${WH}━━╯${YW}
 ${GR}┈${YW}╲▂╱╭━━╮┊╭━━╮╲▂╱
 ${GR}┈┈${YW}▔▔╰┻┻╯▔╰┻┻╯▔▔${GR}┈┈ ${RD}© 4WSec - 2020
+
+ ${NT}${WH}[${RD}!${WH}] I am not responsible for damage caused by ${BD}${GR}Kawaii Deauther${WH}${NT}.
+     Attacking targets without prior mutual consent is ${BD}${RD}illegal${NT}!${BD}
 
 "
 }
