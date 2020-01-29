@@ -1,5 +1,5 @@
 # KawaiiDeauther
-KawaiiDeauther is a pentest toolkit whose goal is to perform jam on WiFi clients/router and spam many fake AP for testing purposes.
+KawaiiDeauther is a pentest toolkit whose goal is to perform jam on WiFi clients/routers and spam many fake AP for testing purposes.
 
 ![Screenshot from 2020-01-20 20-21-48](https://user-images.githubusercontent.com/32659320/72734597-a7a1fe00-3bcc-11ea-87dd-972db5310590.png)
 
@@ -16,9 +16,14 @@ Installation
 =
 Dependencies will be automatically installed.
 
-    git clone https://github.com/aryanrtm/KawaiiDeauther
-    cd KawaiiDeauther && sudo ./install.sh
-    sudo KawaiiDeauther.sh
+    $ git clone https://github.com/aryanrtm/KawaiiDeauther
+    $ cd KawaiiDeauther && sudo ./install.sh
+    $ sudo KawaiiDeauther.sh
+
+
+Tools Overview
+=
+![Kawaii_Deauther](https://user-images.githubusercontent.com/32659320/73251134-f4985c80-41ea-11ea-8ca6-3fb48bd34a02.gif)
 
 
 Tested on
