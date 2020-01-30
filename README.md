@@ -53,6 +53,11 @@ Contact
 - Twitter: @4wsec_
 
 
+License
+=
+GNU General Public License v3.0
+
+
 Copyright
 =
 Kawaii Deauther is made with ❤️ by Arya Narotama - Anon Cyber Team - 2020
