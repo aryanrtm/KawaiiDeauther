@@ -1,6 +1,6 @@
 # KawaiiDeauther
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/aryanrtm/KawaiiDeauther/blob/master/LICENSE)  [![Version](https://img.shields.io/badge/Release-1.2-blue.svg?maxAge=259200)]()  [![Build](https://img.shields.io/badge/Supported_OS-Linux-green.svg)]()  [![asciinema](https://img.shields.io/badge/asciinema-Demo-red.svg)](https://asciinema.org/a/294970)
-<\br>
+<br/>
 KawaiiDeauther is a pentest toolkit whose goal is to perform jam on WiFi clients/routers and spam many fake AP for testing purposes.
 
 ![Screenshot from 2020-01-29 21-11-48](https://user-images.githubusercontent.com/32659320/73364024-600e2700-42dc-11ea-975e-b5f2b350b956.png)
