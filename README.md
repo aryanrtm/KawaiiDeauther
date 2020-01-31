@@ -31,7 +31,7 @@ Tools Overview
 
 Demo
 =
-[![asciicast](https://asciinema.org/a/294970.png)](https://asciinema.org/a/294970)
+[![asciicast](https://asciinema.org/a/294970.png)](https://asciinema.org/a/294970?autoplay=1&loop=1)
 
 
 Tested on
