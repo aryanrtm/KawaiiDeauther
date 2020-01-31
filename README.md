@@ -34,7 +34,7 @@ Tested on
 
 <table>
     <tr>
-        <th>Operating system</th>
+        <th>Operating System</th>
         <th> Version </th>
     </tr>
     <tr>
