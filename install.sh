@@ -49,7 +49,7 @@ function checking_dependencies () {
 		printf " ${BD}${WH}[${RD}!${WH}] ${CY}Checking Guns ${WH}..........\n"
 		echo ""
 		touch dependencies.conf
-		echo "# 4WSec Just Dropped Yo Instagram" >> dependencies.conf
+		echo "# 4WSec Just Dropped Yo Wireless" >> dependencies.conf
 		sleep 1
 
 		# Checking MDK3
