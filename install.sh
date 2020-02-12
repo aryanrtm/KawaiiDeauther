@@ -58,7 +58,7 @@ function checking_dependencies () {
 			printf " ${YW}MDK3 ${WH}.......... ${WH}[${GR}✔${WH}]\n"
 			echo "mdk3 = yes" >> dependencies.conf
 		else
-			printf " ${YW}cURL ${WH}.......... ${WH}[${RD}✘${WH}]\n"
+			printf " ${YW}MDK3 ${WH}.......... ${WH}[${RD}✘${WH}]\n"
 			sleep 1
 			apt-get install mdk3 -y
 		fi
