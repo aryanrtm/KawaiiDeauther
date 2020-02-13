@@ -14,7 +14,6 @@ NT=$(tput sgr0) # Netral
 BD=$(tput bold) # Bold
 BG=$(tput setab 4) # Background Color
 
-
 # Function for displaying banner
 function banner () {
 	printf "${BD}
